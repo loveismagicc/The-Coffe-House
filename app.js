@@ -36,7 +36,7 @@ app.use('/api/address', addressRoutes);
 
 // Health check route
 app.get('/', (req, res) => {
-    res.send('The Coffee House API is running...');
+    res.send('Himewari Kawwai...... <3');
 });
 
 // Start server
